@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/camille-dorland-bbb850a7">![linkedin link](https://user-images.githubusercontent.com/82466002/223571940-31ac47f6-652d-423f-b23a-79a801665e10.svg)<a>
 
 - ✋ Hi, I'm a french junior developper
+- 🏫 Actually studing at Elan Formation
 - 👀 I’m interested HTML, CSS, JS, React.js, PHP...
 - 🍦 I’m currently learning Vanilla JavaScript and PHP 8
 - 💞️ I’m looking to collaborate on little project for fun
@@ -43,15 +44,14 @@
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=) 
 </details>
  
-### Stats Overview : :cyclone:
+### 🧮 Stats Overview : 
   <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Littlebirdwarrior&langs_count=8&layout=compact&theme=discord_old_blurple&hide=html,Tcl" />
 </a>
 
 
 
-### GitHub Highlights: :blossom:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Littlebirdwarrior&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=discord_old_blurple" />
+### 🍃 GitHub Highlights: 
 <a href="">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Littlebirdwarrior&theme=discord_old_blurple"/>
 </a>
